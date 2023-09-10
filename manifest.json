@@ -3,8 +3,8 @@
     "name": "Scientific Calculator",
     "version": "1.5.2",
     "short_name": "Calculator",
-    "author": "Raad Altaie",
-    "description": "Awesome Scientific Calculator for Google Chrome",
+    "author": "Rahul Kumar",
+    "description": "Awesome Scientific Calculator ",
     "offline_enabled": true,
     "browser_action": {
         "default_title": "Calculator",
